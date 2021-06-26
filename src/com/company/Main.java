@@ -24,6 +24,5 @@ public class Main {
  //        Do the else if statements for the multiplitcation and division
 
         System.out.println(answer);
-        System.out.println(answer);
     }
 }
